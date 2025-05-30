@@ -1,2 +1,1 @@
-# Image-Galleries
-It is show the search images
+# codealpha_image-gallery
